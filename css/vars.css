@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --sub-text-color: #fff;
+  --accent-color: red;
+  --checkbox-color: #10a1f2;
+
+  --main-text-color: #000;
+
+
+  --first-brand-color: #0c3b2e;
+  --second-brand-color: #ffcd43;
+  --third-brand-color: #6d9773;
+
+  --main-font: 'Open Sans Condensed';
+  --title-font: 'Alfa Slab One';
+
+  font-size: 62.5%;
+}

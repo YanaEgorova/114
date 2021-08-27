@@ -1,0 +1,10 @@
+.about__wrapper {
+  background-color: var(--third-brand-color);
+}
+.about {
+  padding: 5rem 0;
+  text-align: center;
+}
+@media screen and (min-width: 1024px) {
+  
+}
