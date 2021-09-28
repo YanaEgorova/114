@@ -295,8 +295,6 @@ function enterMoreThanThereIs(quantity) {
     if(quantity > amountOfProduct) {
         errorMessage.style.display = 'block';
         topPriceParagraph.textContent = defaultText;
-        saveParagraph.style.display = 'none';
-        originalParagraph.style.display = 'none';
     } else {
         errorMessage.style.display = 'none';
     }
